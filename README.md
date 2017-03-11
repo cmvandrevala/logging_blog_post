@@ -12,6 +12,7 @@ A set of Swift playgrounds that accompany a blog post.
 ## Observer Pattern
 
 1. [Loggers with Unchanging Messages](https://gist.github.com/cmvandrevala/0b623657daae99ae8bfbf3dbfdd7e17d)
+2. [Loggers with Dynamic Messages](https://gist.github.com/cmvandrevala/82a0123045ab2f1db205a0f65c7166c6)
 
 ## Chain of Responsibility Pattern
 
