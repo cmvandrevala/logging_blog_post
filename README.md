@@ -1,6 +1,8 @@
 # Logging Blog Post
 
-A set of Swift playgrounds that accompany a blog post.
+This is a set of Swift playgrounds that accompany my logging blog post. You should be able to copy the code right into an Xcode playground and see the results in the console. Feel free to experiment with these code snippets at your leisure!
+
+Happy logging!
 
 ## Naive Logger Implementation
 
