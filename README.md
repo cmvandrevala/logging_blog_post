@@ -13,4 +13,5 @@ A set of Swift playgrounds that accompany a blog post.
 
 ## Chain of Responsibility Pattern
 
-1. [Simple Logger](https://gist.github.com/cmvandrevala/ed1ac3b814af4414da43779dc3197cf2)
+1. [Loggers with Unchanging Messages](https://gist.github.com/cmvandrevala/ed1ac3b814af4414da43779dc3197cf2)
+2. [Loggers with Dynamic Messages](https://gist.github.com/cmvandrevala/ace57a97636d876519b68848cc01dbc3)
